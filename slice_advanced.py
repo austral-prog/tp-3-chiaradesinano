@@ -1,7 +1,3 @@
 def slice_advanced():
-    # Código a implementar utilizando input.
-    text= input("Ingresar texto:")
-    print(text[4::2])
-
-# Para verificar este ejercicio ejecutar el comando
-# `pytest tp3_slice_advanced_test.py` o `python tp3_slice_advanced_test.py`
+    name=input("Ingrese texto aqui!:")
+    print(name[4::2])
